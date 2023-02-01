@@ -8,11 +8,12 @@
 ## Assign task
 
 --Aftaha Ahmed--
-1. User
+1. User UI
 2. Authentication
 
 --Najmi Saniy--
-1. Authentication
+1. Cart screen.
+2. Order Page screen.
 
 
 ## Introduction
