@@ -35,6 +35,7 @@ Our application is a platform where user can register and do their grocery shopp
 5. Listview feature for available products with their price.
 
 ## Screen navigation (routing) and widgets (UI and reusable widget) implementation
+![image](https://user-images.githubusercontent.com/116794268/216138467-66cfc32b-c454-459b-9ab1-ddcf2dfbff04.png)
 
 
 
