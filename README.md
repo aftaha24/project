@@ -33,10 +33,10 @@ Our application is a platform where user can register and do their grocery shopp
 
 ## Features and Functionalities
 
-1. User Register and login
-2. Provider plugin for add to cart
-3. Flutterfire plugin
-4. Firebase Authentication
+1. User Register and login.
+2. Provider plugin for add to cart.
+3. Flutterfire plugin.
+4. Firebase Authentication by email.
 5. Listview feature for available products with their price.
 
 ## Screen navigation (routing) and widgets (UI and reusable widget) implementation
@@ -46,6 +46,8 @@ Our application is a platform where user can register and do their grocery shopp
 *Login Page*
 ![image](https://user-images.githubusercontent.com/116794268/216141141-759364d9-e742-4dba-ad2e-e689364a5d87.png)
 *Registration Page*
+![image](https://user-images.githubusercontent.com/116794268/216294634-7a18d746-87f2-45e6-92f5-fab2ac4c70d7.png)
+*Authentication storage in firebase console*
 ![image](https://user-images.githubusercontent.com/116794268/216141277-4663dab3-4112-4e46-b39f-db1c02c97932.png)
 *HomePage*
 ![image](https://user-images.githubusercontent.com/116794268/216141534-bbec6438-5579-4254-b0a9-6afca47912d2.png)
