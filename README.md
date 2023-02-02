@@ -62,7 +62,7 @@ Our application is a platform where user can register and do their grocery shopp
 
 
 ![image](https://user-images.githubusercontent.com/116794268/216336360-488a94d8-09e0-4a5f-8d3b-ca2dc3613e0b.png)
-*Add to Cart page after adding items. Reusable widgets are reflected in this page*
+*Add to Cart page page. Reusable widgets are reflected in this page*
 
 
 ## Sequence diagram 
