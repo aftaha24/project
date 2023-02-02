@@ -66,3 +66,4 @@ Our application is a platform where user can register and do their grocery shopp
 
 
 ## Sequence diagram 
+![image](https://user-images.githubusercontent.com/116794268/216356810-21ebbc1d-bbae-42f7-96ac-328c1fb902b5.png)
