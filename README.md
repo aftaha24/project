@@ -5,7 +5,7 @@
 1. Aftaha Ahmed (1825335)--(Group Leader)
 2. Muhammad Najmi Saniy Bin Mohd Nazul (1823617)
 
-## Assign task
+## Contribution
 
 --Aftaha Ahmed--
 1. User UI
@@ -47,8 +47,6 @@ Our application is a platform where user can register and do their grocery shopp
 *Product Information*
 ![image](https://user-images.githubusercontent.com/116794268/216141385-94f9f166-d6a7-469e-8a37-d11c036ac267.png)
 *Available products with their price*
-
-
 
 
 ## Sequence diagram 
