@@ -23,7 +23,7 @@
 
 ## Introduction
 
-Our application is a platform where user can register and do their grocery shopping online without any hassle. The platform offers their users to have knowledge on the the types and background behind each product. Moreover, the application shows the available products of the grocery along with the price. By such users will have an idea what products are available in the grocery store and what is their updated prices. The users can add the items they want to purchase in the cart and reserve them in the application. Once they reach the grocery store they just show the cashier his/her reserved order and payment proof and finish the shopping in few minuteS. By such way, users don't need to be in confusion on the availability of the products, neither they need to que for payment. 
+Our application is a platform where user can register and do their grocery shopping online without any hassle. The platform offers their users to have knowledge on the the types and background behind each product. Moreover, the application shows the available products of the grocery store along with their price. By such users will have an idea what products are available in the grocery store and what is their updated price. The users can add the items they want to purchase in the cart and reserve them in the application. Once they reach the grocery store they just show the cashier his/her reserved order and payment proof and finish the shopping in few minutes. By such way, users don't need to be in confusion on the availability of the products and the price, neither they need to que for payment. 
 
 ## Objectives
 
