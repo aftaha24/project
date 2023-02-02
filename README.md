@@ -42,16 +42,21 @@ Our application is a platform where user can register and do their grocery shopp
 ## Screen navigation (routing) and widgets (UI and reusable widget) implementation
 
 
-![image](https://user-images.githubusercontent.com/116794268/216138467-66cfc32b-c454-459b-9ab1-ddcf2dfbff04.png)
+![image](https://user-images.githubusercontent.com/116794268/216337762-0c7be85f-039a-44dd-9147-95b0f2ea18ed.png)
 *Login Page*
-![image](https://user-images.githubusercontent.com/116794268/216141141-759364d9-e742-4dba-ad2e-e689364a5d87.png)
+
+![image](https://user-images.githubusercontent.com/116794268/216337827-f39d749e-a2e0-4810-963f-f590f16e3934.png)
 *Registration Page*
+
 ![image](https://user-images.githubusercontent.com/116794268/216294634-7a18d746-87f2-45e6-92f5-fab2ac4c70d7.png)
 *Authentication storage in firebase console*
-![image](https://user-images.githubusercontent.com/116794268/216141277-4663dab3-4112-4e46-b39f-db1c02c97932.png)
+
+![image](https://user-images.githubusercontent.com/116794268/216337906-fcfe354e-e5ca-42c3-928d-2aed1cd8f4d2.png)
 *HomePage*
-![image](https://user-images.githubusercontent.com/116794268/216141534-bbec6438-5579-4254-b0a9-6afca47912d2.png)
+
+![image](https://user-images.githubusercontent.com/116794268/216337632-a72ab1aa-70b1-4c68-83d3-727410c5b750.png)
 *Product Information*
+
 ![image](https://user-images.githubusercontent.com/116794268/216336477-53ce9d1a-b3d9-4d6f-a385-e535bfcf6dcd.png)
 *Available products with their price*
 
