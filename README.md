@@ -52,8 +52,11 @@ Our application is a platform where user can register and do their grocery shopp
 *HomePage*
 ![image](https://user-images.githubusercontent.com/116794268/216141534-bbec6438-5579-4254-b0a9-6afca47912d2.png)
 *Product Information*
-![image](https://user-images.githubusercontent.com/116794268/216141385-94f9f166-d6a7-469e-8a37-d11c036ac267.png)
+![image](https://user-images.githubusercontent.com/116794268/216336477-53ce9d1a-b3d9-4d6f-a385-e535bfcf6dcd.png)
 *Available products with their price*
+![image](https://user-images.githubusercontent.com/116794268/216336360-488a94d8-09e0-4a5f-8d3b-ca2dc3613e0b.png)
+*Add to Cart page after adding items. Reusable widget as Total Price is shown*
+
 
 
 ## Sequence diagram 
